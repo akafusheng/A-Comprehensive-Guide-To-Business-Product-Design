@@ -1,4 +1,4 @@
-# A-Comprehensive-Guide-To-Business-Product-Design 
+# Comprehensive-Guide-To-Business-Product-Design 
 
 # B端产品设计指南
 
