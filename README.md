@@ -1,6 +1,18 @@
-# Comprehensive-Guide-To-Business-Product-Design 
+# A-Comprehensive-Guide-To-Business-Product-Design 
 
 # B端产品设计指南
+
+## 名词解释
+
+
+
+
+
+## 常用工具
+
+
+
+
 
 
 
