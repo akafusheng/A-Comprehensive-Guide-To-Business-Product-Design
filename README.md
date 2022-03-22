@@ -2,11 +2,13 @@
 
 # B端产品设计指南
 
-## 名词解释
+## `使用说明`
 
-[什么是原型图？](https://zhuanlan.zhihu.com/p/354802633)
 
-[PRD文档](https://www.xiaopiu.com/h5/byId?type=project&id=5ce262e596541012dae2aec4&isprd=true)
+
+
+
+[TOC]
 
 
 
@@ -52,6 +54,8 @@ SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)
 
 [使用 Axure 绘制原型图](https://docs.axure.com/axure-rp/reference/getting-started-video/)
 
+[原型图应该包含的内容](http://www.woshipm.com/rp/227461.html)
+
 [原型图交互设计](https://ux.ant.design/)
 
 原型图模板
@@ -61,6 +65,12 @@ SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)
 [产品原型演示与汇报技巧](http://www.woshipm.com/zhichang/5245982.html)
 
 [PRD文档](http://www.woshipm.com/pd/4515932.html)
+
+[Web端原型设计规范](http://www.woshipm.com/rp/4176731.html)
+
+[原型页面说明](http://www.woshipm.com/pmd/587625.html)
+
+
 
 
 
