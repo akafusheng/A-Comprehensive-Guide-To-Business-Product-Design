@@ -44,6 +44,26 @@ SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)
 
 
 
+### 原型图绘制
+
+
+
+产品经理需要将每个页面的排版样式、控件设计及交互效果，用通俗易懂的形式表达出来，以方便其他同事快速理解。线框图（也叫原型图）是一种很好的表现形式。绘制线框图的工具有很多，常见的有[Axure](https://www.axure.com/)、[Mockplus](https://www.mockplus.com/)、[墨刀](https://modao.cc/)、[Visio](https://support.microsoft.com/en-us/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710)等。
+
+[使用 Axure 绘制原型图](https://docs.axure.com/axure-rp/reference/getting-started-video/)
+
+[原型图交互设计](https://ux.ant.design/)
+
+原型图模板
+
+[页面流程图](http://www.woshipm.com/rp/573629.html)
+
+[产品原型演示与汇报技巧](http://www.woshipm.com/zhichang/5245982.html)
+
+[PRD文档](http://www.woshipm.com/pd/4515932.html)
+
+
+
 ### 界面设计流程
 
 > 1. 产品经理绘制线框图原型，表达软件中每个页面的设计需求。
@@ -53,25 +73,15 @@ SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)
 
 
 
-### 原型图绘制
-
-
-
-产品经理需要将每个页面的排版样式、控件设计及交互效果，用通俗易懂的形式表达出来，以方便其他同事快速理解。线框图（也叫原型图）是一种很好的表现形式。绘制线框图的工具有很多，常见的有[Axure](https://www.axure.com/)、[Mockplus](https://www.mockplus.com/)、[墨刀](https://modao.cc/)、[Visio](https://support.microsoft.com/en-us/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710)等。
-
-**线框图的重点在于说清楚界面上的交互功能设计，而非UI效果**。
-
-使用 Axure 绘制原型图：[开始使用 Axure RP ·Axure Docs](https://docs.axure.com/axure-rp/reference/getting-started-video/)
-
-原型图交互设计：[Ant UX | The Sitemap Template](https://ux.ant.design/)
-
-原型图模板
-
-
-
 ### 设计原则
 
 #### [尼尔森十大可用性原则](http://www.woshipm.com/pd/3159120.html)
+
+
+
+### [设计指南](http://www.woshipm.com/pd/3260026.html)
+
+
 
 
 
