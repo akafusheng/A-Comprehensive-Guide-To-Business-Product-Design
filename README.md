@@ -813,5 +813,6 @@ ERP（Enterprise Resource Planning，企业资源计划）传统的ERP软件相�
 
 [人人都是产品经理 | 产品经理、产品爱好者学习交流平台 (woshipm.com)](http://www.woshipm.com/)
 
+[KK三部曲 (豆瓣) (douban.com)](https://book.douban.com/subject/26710297/) 《科技想要什么》《失控》《必然》
 
-
+[人人都是产品经理 (豆瓣) (douban.com)](https://book.douban.com/subject/4723970/)
