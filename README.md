@@ -2,17 +2,51 @@
 
 # B端产品设计指南
 
-## `使用说明`
+## 使用说明
 
 
 
 
 
-[TOC]
+## B端产品设计流程
 
 
 
-## 工具、资源推荐
+### [整体解决方案](http://www.woshipm.com/pd/4393686.html)
+
+
+
+### 业务模型
+
+
+
+### 系统操作流程
+
+
+
+### 页面流转图
+
+
+
+### 原型图绘制
+
+产品经理需要将每个页面的排版样式、控件设计及交互效果，用通俗易懂的形式表达出来，以方便其他同事快速理解。线框图（也叫原型图）是一种很好的表现形式。绘制线框图的工具有很多，常见的有[Axure](https://www.axure.com/)、[Mockplus](https://www.mockplus.com/)、[墨刀](https://modao.cc/)、[Visio](https://support.microsoft.com/en-us/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710)等。
+
+[使用 Axure 绘制原型图](https://docs.axure.com/axure-rp/reference/getting-started-video/)
+
+[原型图应该包含的内容](http://www.woshipm.com/rp/227461.html)
+
+[原型图交互设计](https://ux.ant.design/)
+
+>  [详细设计](http://www.woshipm.com/pd/4481339.html)
+>
+> - 遵循“[尼尔森十大可用性原则](http://www.woshipm.com/pd/3159120.html)”：从多个方面保障交互的合理性、可用性、友好性，甚至可以在设计完成后进行复查；
+> - 不建议设计复杂交互：B端产品目的在于帮助企业解决业务问题，交互优先级并不高，复杂交互不利于用户操作同时也过多占用研发资源；
+> - 采用标准模板和控件：行业内会很多成熟的商业软件，获得了用户认可，可以借鉴系统布局、交互方式等，帮助提高设计效率。
+
+
+
+#### 原型图工具、资源推荐
 
 原型绘制工具：[Axure](https://www.axure.com/download)
 
@@ -24,15 +58,25 @@ UML图表：[Visio](https://support.microsoft.com/en-us/office/install-visio-or-
 
 泳道图：[Creately](https://creately.com/zh/lp/swimlane-diagram-software/)
 
-Java学习：[Java Tutorial (w3schools.com)](https://www.w3schools.com/java/)
-
-SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)  
-
-[SQL Teaching - The easiest tutorial to learn SQL](https://www.sqlteaching.com/)
-
-[《编码--隐秘在计算机软硬件背后的语言》](https://awesome-programming-books.github.io/computer-system/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)
-
 [Ant Design - 一套企业级 UI 设计语言和 React 组件库](https://ant.design/index-cn)
+
+原型图模板
+
+[页面流程图](http://www.woshipm.com/rp/573629.html)
+
+[产品原型演示与汇报技巧](http://www.woshipm.com/zhichang/5245982.html)
+
+[Web端原型设计规范](http://www.woshipm.com/rp/4176731.html)
+
+[原型页面说明](http://www.woshipm.com/pmd/587625.html)
+
+
+
+
+
+### [PRD文档](http://www.woshipm.com/pd/4515932.html)
+
+
 
 
 
@@ -58,35 +102,13 @@ SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)
 
 交互设计
 
+Java学习：[Java Tutorial (w3schools.com)](https://www.w3schools.com/java/)
 
+SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)  
 
-## [软件开发流程](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B)
+[SQL Teaching - The easiest tutorial to learn SQL](https://www.sqlteaching.com/)
 
-
-
-### 原型图绘制
-
-
-
-产品经理需要将每个页面的排版样式、控件设计及交互效果，用通俗易懂的形式表达出来，以方便其他同事快速理解。线框图（也叫原型图）是一种很好的表现形式。绘制线框图的工具有很多，常见的有[Axure](https://www.axure.com/)、[Mockplus](https://www.mockplus.com/)、[墨刀](https://modao.cc/)、[Visio](https://support.microsoft.com/en-us/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710)等。
-
-[使用 Axure 绘制原型图](https://docs.axure.com/axure-rp/reference/getting-started-video/)
-
-[原型图应该包含的内容](http://www.woshipm.com/rp/227461.html)
-
-[原型图交互设计](https://ux.ant.design/)
-
-原型图模板
-
-[页面流程图](http://www.woshipm.com/rp/573629.html)
-
-[产品原型演示与汇报技巧](http://www.woshipm.com/zhichang/5245982.html)
-
-[PRD文档](http://www.woshipm.com/pd/4515932.html)
-
-[Web端原型设计规范](http://www.woshipm.com/rp/4176731.html)
-
-[原型页面说明](http://www.woshipm.com/pmd/587625.html)
+[《编码--隐秘在计算机软硬件背后的语言》](https://awesome-programming-books.github.io/computer-system/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)
 
 
 
@@ -100,10 +122,6 @@ SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)
 > 4. 前端工程师拿到切图文件，进行前端开发，包括实现交互、动效等。
 
 
-
-### 设计原则
-
-#### [尼尔森十大可用性原则](http://www.woshipm.com/pd/3159120.html)
 
 
 
