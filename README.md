@@ -40,9 +40,7 @@ SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)
 
 
 
-## 软件开发流程
-
-![image-20220322135020888](D:\资料\学习\B端产品设计指南.assets\image-20220322135020888-16479282231571.png)
+## [软件开发流程](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B)
 
 
 
