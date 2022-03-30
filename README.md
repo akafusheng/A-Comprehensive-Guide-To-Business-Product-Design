@@ -14,6 +14,48 @@
 
 
 
+## 学习路线
+
+这里推荐下传智教育推出的《[2022年产品经理学习路线图](https://www.bilibili.com/read/cv12647045)》，共5000分钟的视频，想自学的小伙伴从零基础到面试产品经理所需的这里都可以看到。
+
+
+
+## 产品经理需要懂技术吗？
+
+需要，以下是个人整理的技术路线。
+
+[业务分析](http://www.woshipm.com/pmd/3938179.html)
+
+[解决方案](http://www.woshipm.com/pmd/3263027.html)
+
+软件设计
+
+项目实施
+
+数据分析
+
+运营管理
+
+计算机科学
+
+软件工程
+
+项目管理
+
+交互设计
+
+Java学习：[Java Tutorial (w3schools.com)](https://www.w3schools.com/java/)
+
+SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)  
+
+[SQL Teaching - The easiest tutorial to learn SQL](https://www.sqlteaching.com/)
+
+[《编码--隐秘在计算机软硬件背后的语言》](https://awesome-programming-books.github.io/computer-system/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)
+
+
+
+
+
 
 
 ### [整体解决方案](http://www.woshipm.com/pd/4393686.html)
@@ -105,34 +147,6 @@ UML图表：[Visio](https://support.microsoft.com/en-us/office/install-visio-or-
 
 
 ## 技术路线
-
-[业务分析](http://www.woshipm.com/pmd/3938179.html)
-
-[解决方案](http://www.woshipm.com/pmd/3263027.html)
-
-软件设计
-
-项目实施
-
-数据分析
-
-运营管理
-
-计算机科学
-
-软件工程
-
-项目管理
-
-交互设计
-
-Java学习：[Java Tutorial (w3schools.com)](https://www.w3schools.com/java/)
-
-SQL学习：[SQL Tutorial (w3schools.com)](https://www.w3schools.com/sql/)  
-
-[SQL Teaching - The easiest tutorial to learn SQL](https://www.sqlteaching.com/)
-
-[《编码--隐秘在计算机软硬件背后的语言》](https://awesome-programming-books.github.io/computer-system/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)
 
 
 
